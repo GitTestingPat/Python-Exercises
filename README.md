@@ -1,3 +1,6 @@
+
+![Python Banner](docs/images/python_logo.jpg)
+
 # Python-Exercises
 
 Este repositorio contiene una colección de ejercicios básicos de Python diseñados para practicar distintas estructuras, funciones y conceptos del lenguaje. Cada archivo representa un ejercicio independiente.
