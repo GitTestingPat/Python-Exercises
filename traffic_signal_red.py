@@ -1,4 +1,3 @@
-
 # Check if the traffic signal is red
 is_traffic_signal_red = True
 
