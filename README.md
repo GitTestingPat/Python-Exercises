@@ -1,4 +1,3 @@
-
 ![Python Banner](docs/images/python_logo.jpg)
 
 # Python-Exercises
