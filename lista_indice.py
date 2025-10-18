@@ -1,9 +1,7 @@
-
 some_list = ["b", "r", "i", "l", "l", "i", "a", "n", "t"]
 
 # Access the element by index
 print(some_list[6])
-
 
 # In this code, we have a list called `some_list` that contains strings. 
 # Each string represents a letter of the word "brilliantianant".
