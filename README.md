@@ -9,26 +9,26 @@ Este repositorio contiene una colección de ejercicios básicos de Python diseñ
 
 Algunos de los ejercicios que encontrarás en este repositorio son:
 
-- `S6_codigo_proyecto_git.py`
-- `S6_ejercicio_appmovil_compras.py`
-- `S6_ejercicio_browser.py`
-- `S6_ejercicio_calculo_costo_total.py`
-- `S6_ejercicio_calculo_descuento.py`
-- `S6_ejercicio_calculo_numero_calorias.py`
-- `S6_ejercicio_consulta_BSD_edades.py`
-- `S6_ejercicio_definir_funcion_responsabilidad.py`
-- `S6_ejercicio_definir_una_funcion.py`
-- `S6_ejercicio_diccionario_de_elementos.py`
-- `S6_ejercicio_diccionario_de_elementos2.py`
-- `S6_ejercicio_diccionario_de_peliculas_y_valoraciones.py`
-- `S6_ejercicio_diccionario_de_vecinos.py`
-- `S6_ejercicio_ejecucion_pruebas_mensajes_error.py`
-- `S6_ejercicio_entorno.py`
-- `S6_ejercicio_f-strings.py`
+- `appmovil_compras.py`
+- `browser.py`
+- `calculo_costo_total.py`
+- `calculo_descuento.py`
+- `calculo_numero_calorias.py`
+- `consulta_BSD_edades.py`
+- `definir_funcion_responsabilidad.py`
+- `definir_una_funcion.py`
+- `diccionario_de_elementos.py`
+- `diccionario_de_elementos2.py`
+- `diccionario_de_peliculas_y_valoraciones.py`
+- `diccionario_de_vecinos.py`
+- `ejecucion_pruebas_mensajes_error.py`
+- `entorno.py`
+- `f-strings.py`
 - ...
 
 > **Nota:** Puedes ver todos los ejercicios directamente en el repositorio.
 
+![Python logo](docs/images/python_logo2.png)
 ## Requisitos
 
 ### Instalar Python
@@ -80,6 +80,7 @@ Algunos de los ejercicios que encontrarás en este repositorio son:
     ```sh
     python3 --version
     ```
+![clone photo](docs/images/clone.gif)
 
 ## Clonar el repositorio
 
@@ -87,13 +88,13 @@ Algunos de los ejercicios que encontrarás en este repositorio son:
 2. Ejecuta:
 
     ```sh
-    git clone https://github.com/GitTestingPat/Python-Basics.git
+    git clone https://github.com/GitTestingPat/Python-Exercises.git
     ```
 
 3. Entra al directorio:
 
     ```sh
-    cd Python-Basics
+    cd Python-Exercises
     ```
 
 ## Ejecución de los ejercicios
@@ -114,13 +115,13 @@ Cada archivo `.py` es un ejercicio independiente. Para ejecutarlos:
 
 ## Ejercicios destacados
 
-- **S6_ejercicio_calculo_descuento.py:** Calcula descuentos aplicados a compras.
-- **S6_ejercicio_diccionario_de_peliculas_y_valoraciones.py:** Gestiona un diccionario de películas y valoraciones.
-- **S6_ejercicio_lista_empleados.py:** Trabaja con listas y empleados.
-- **S6_ejercicio_f-strings.py:** Ejemplo del uso de f-strings en Python.
+- **calculo_descuento.py:** Calcula descuentos aplicados a compras.
+- **diccionario_de_peliculas_y_valoraciones.py:** Gestiona un diccionario de películas y valoraciones.
+- **lista_empleados.py:** Trabaja con listas y empleados.
+- **f-strings.py:** Ejemplo del uso de f-strings en Python.
 
 Para más detalles sobre cada ejercicio, consulta el código fuente directamente en el repositorio.
 
 ---
 
-¿Necesitas ayuda para instalar Python o ejecutar algún ejercicio? Consulta la documentación oficial de Python o abre un issue en el repositorio.
+¿Necesitas ayuda para instalar Python o ejecutar algún ejercicio? Consulta la [documentación oficial de Python](https://docs.python.org/3/) o abre un [issue](https://github.com/GitTestingPat/Python-Exercises/issues) en el repositorio.
