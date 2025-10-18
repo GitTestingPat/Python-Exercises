@@ -1,4 +1,3 @@
-
 # Define a list called 'bag' that contains various items
 bag = ['agua', 'pan', 'chocolate', 'llaves', 'cartera', 'auriculares']
 
