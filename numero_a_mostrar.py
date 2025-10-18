@@ -1,4 +1,3 @@
-
 # Calculate the number
 number = 10 // 3 * 2 + 7 % 3 - 5
 
