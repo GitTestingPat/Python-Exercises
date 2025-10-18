@@ -1,4 +1,3 @@
-
 # Define the heights of the streets in three different cities
 greenfield_heights = ['Maple Street', 'Elm Avenue', 'Oak Road']
 riverdale_grove = ['Birch Lane', 'Cedar Boulevard', 'Pine Drive']
