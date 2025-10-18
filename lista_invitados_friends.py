@@ -1,4 +1,3 @@
-
 # Define a list of friends
 friends = ['Alexander', 'Mia', 'Elijah', 'Noah', 'Emily', 'Charlotte', 'Mason']
 
