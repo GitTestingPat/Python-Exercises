@@ -1,4 +1,3 @@
-
 # Define a dictionary to store the calorie values of different food items
 calories = {
     "Hamburguesa": 600,
@@ -21,8 +20,8 @@ def calories_counter(item_a, item_b, item_c):
 # Call the function with three food items as arguments
 # The function will calculate the total calories of these food items and print the result
 print(calories_counter("Ensalada", "Hamburguesa con queso", "Té helado"))
-#
-#This code defines a dictionary called `calories` to store the calorie values of different food items. 
+
+# This code defines a dictionary called `calories` to store the calorie values of different food items. 
 # It then defines a function called `calories_counter` that takes three food items as arguments. 
 # The function uses the dictionary to look up the calorie values of the three food items, 
 # adds these values together to get the total calories, and returns the total calories. 
