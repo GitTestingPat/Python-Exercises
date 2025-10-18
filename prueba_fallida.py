@@ -1,4 +1,3 @@
-
 # This variable will hold the result of the test
 is_test_passed = 'False'
 
