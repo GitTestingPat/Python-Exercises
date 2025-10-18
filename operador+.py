@@ -1,4 +1,3 @@
-
 # Define a string variable called text_hello and assign it the value "Buenos días, "
 text_hello = "Buenos días, " 
 
@@ -10,5 +9,7 @@ print_str = text_hello + team
 
 # Print the value of print_str
 print(print_str)
-#
-#In this code, we define two string variables called `text_hello` and `team`. We assign the value "Buenos días, " to `text_hello` and the value "equipo" to `team`. Then, we concatenate the strings stored in `text_hello` and `
+
+# In this code, we define two string variables called `text_hello` and `team`. 
+# We assign the value "Buenos días, " to `text_hello` and the value "equipo" to `team`. 
+# Then, we concatenate the strings stored in `text_hello` and `team`, and store the result in the variable `print_str`.

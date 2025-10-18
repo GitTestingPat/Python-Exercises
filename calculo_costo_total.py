@@ -14,4 +14,6 @@ total_cost = biscuit + candies_as_int
 # Print the total cost
 print(total_cost)
 #
-#In this code, we define the cost of a biscuit and the number of candies. We then convert the number of candies from a string to an integer, as the `int()` function is used to convert a string to an integer.
+#In this code, we define the cost of a biscuit and the number of candies. 
+# We then convert the number of candies from a string to an integer, as the `int()` function 
+# is used to convert a string to an integer.

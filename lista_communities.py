@@ -13,9 +13,9 @@ for community in cities:
     for street in community:
         # Print the name of the street
         print(street)
-#
-#In this code, we define the heights of the streets in three different cities. We then create a list of lists, where each list contains the heights of the streets in a city.
-#
-#We iterate through each city in the list of cities using a for loop. For each city, we iterate through each street in the city using another for loop.
-#
-#Finally, we print the name of each street using the print function..</s>
+
+# In this code, we define the heights of the streets in three different cities. 
+# We then create a list of lists, where each list contains the heights of the streets in a city.
+# We iterate through each city in the list of cities using a for loop. For each city, 
+# we iterate through each street in the city using another for loop.
+# Finally, we print the name of each street using the print function..</s>

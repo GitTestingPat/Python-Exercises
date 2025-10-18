@@ -1,4 +1,3 @@
-
 # Define the number of passed and failed tests
 passed = 3
 failed = '2'
@@ -15,5 +14,8 @@ message_details = 'Completadas con éxito: ' + str(passed) + ', no aprobadas: ' 
 # Print the result and details messages
 print(message_result)
 print(message_details)
-#
-#In this code, we define the number of passed and failed tests. We then convert these values to integers and add them together to get the total number of tests completed. We create two message strings: one that displays the total number of tests completed, and another that displays the number of passed and failed tests. Finally, we print these message strings..</s>
+
+# In this code, we define the number of passed and failed tests. 
+# We then convert these values to integers and add them together to get the total number of tests completed. 
+# We create two message strings: one that displays the total number of tests completed, 
+# and another that displays the number of passed and failed tests. Finally, we print these message strings.

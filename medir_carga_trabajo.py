@@ -1,5 +1,3 @@
-
-
 # Calculate the remaining time after completing tasks
 
 # Total time available
@@ -15,5 +13,7 @@ result = total - task_1 - task_2 - task_3
 
 # Print the remaining time
 print(result)
-#
-#This code calculates the remaining time after completing tasks. The total time available is represented by the variable `total`. The time required for each task is represented by the variables `task_1`, `task_2
+
+# This code calculates the remaining time after completing tasks. 
+# The total time available is represented by the variable `total`. 
+# The time required for each task is represented by the variables `task_1`, `task_2.

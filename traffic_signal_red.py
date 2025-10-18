@@ -16,5 +16,8 @@ if is_traffic_signal_red:
         print('Tienes que esperar')
 else:
     print('Puedes cruzar')
-#
-#In this code, we have two conditions: `is_traffic_signal_red` and `no_cars`. The program checks if the traffic signal is red. If it is, the program checks if there are any cars around. If there are no cars, the program prints that you can cross. Otherwise, it tells you to wait. If the traffic signal is not red, the program directly prints that you can cross..</s>
+
+# In this code, we have two conditions: `is_traffic_signal_red` and `no_cars`. 
+# The program checks if the traffic signal is red. If it is, the program checks if there are any cars around. 
+# If there are no cars, the program prints that you can cross. Otherwise, it tells you to wait. 
+# If the traffic signal is not red, the program directly prints that you can cross..</s>

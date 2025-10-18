@@ -15,4 +15,6 @@ for age in clients:
 # Print the count of clients found
 print(clients_found)
 #
-#In this code, we define a list of client ages and initialize a variable to store the count of clients found. We then iterate through each client age in the list and check if the client age is greater than 21 and less than 60. If the condition is met, we increment
+#In this code, we define a list of client ages and initialize a variable to store the c
+# ount of clients found. We then iterate through each client age in the list and check if 
+# the client age is greater than 21 and less than 60. If the condition is met, we increment

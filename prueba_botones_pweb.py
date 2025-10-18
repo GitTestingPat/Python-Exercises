@@ -1,4 +1,3 @@
-
 # Define the button color
 button_color = 'rosa'
 
@@ -15,5 +14,7 @@ elif button_color == 'rojo':
 else:
     # This button color does not exist
     print('¡Este botón no existe!')
-#
-#In this code, we define the button color as 'rosa'. Then, we use an if-elif-else statement to check the button color and print the corresponding button type. If the button color is not 'azul', 'amarillo', or 'rojo', we print '¡Este botón no existe!'..</s>
+
+# In this code, we define the button color as 'rosa'. 
+# Then, we use an if-elif-else statement to check the button color and print the corresponding button type. 
+# If the button color is not 'azul', 'amarillo', or 'rojo', we print '¡Este botón no existe!'..</s>

@@ -1,5 +1,3 @@
-
-
 # This function checks if a number is prime or not.
 def is_prime(n):
     # If the number is less than 2, it is not prime.
@@ -26,4 +24,4 @@ def is_prime(n):
 # This function generates a list of prime numbers within a given range.
 def generate_primes(start, end):
     # Create an empty list to store the prime numbers.
-    primes = []
+    primes = []  # noqa: F841
