@@ -1,5 +1,3 @@
-
-
 # Define a list of team members, including some empty strings
 team = ['Jordan Patel', '', 'Alex Kim', 'Taylor Nguyen', 'Jamie Singh', '', 'Avery Gonzalez', '', 'Casey Chen', '']
 
