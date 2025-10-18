@@ -1,4 +1,3 @@
-
 # Define the cost of lunch for each day of the week
 lunch = 250 # Lunes
 lunch = 223 # Martes
