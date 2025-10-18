@@ -36,5 +36,5 @@ print("El pastel de zanahoria cuesta", get_price_of_cake_with_discount("zanahori
 
 cake_type = "bayas"
 print("El pastel de bayas cuesta", get_price_of_cake_with_discount("bayas"))
-#
-#This code defines a function called `get_price_of_cake_with_discount` that takes a `cake_type` parameter
+
+# This code defines a function called `get_price_of_cake_with_discount` that takes a `cake_type` parameter.
