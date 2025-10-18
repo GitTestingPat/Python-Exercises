@@ -1,4 +1,3 @@
-
 # Define a dictionary called 'neighbors' to store the neighbors' ages and names
 neighbors = {
     11: ("Leo", "Xavier", "Max"),
