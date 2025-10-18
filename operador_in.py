@@ -1,4 +1,3 @@
-
 # Define a dictionary called 'team' with keys as role names and values as names of individuals in those roles
 team = {"manager" : "Marisa", "developer" :"Sophie", "tester":"Alejandro"}
 
