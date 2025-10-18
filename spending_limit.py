@@ -1,4 +1,3 @@
-
 # Define the total spending
 spending = 50 + 44 + 31 + 18 + 2 + 1
 
