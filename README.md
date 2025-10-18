@@ -29,6 +29,7 @@ Algunos de los ejercicios que encontrarás en este repositorio son:
 > **Nota:** Puedes ver todos los ejercicios directamente en el repositorio.
 
 ![Python logo](docs/images/python_logo2.png)
+
 ## Requisitos
 
 ### Instalar Python
@@ -80,7 +81,7 @@ Algunos de los ejercicios que encontrarás en este repositorio son:
     ```sh
     python3 --version
     ```
-![clone photo](docs/images/clone.gif)
+![clone gif](docs/images/clone.gif)
 
 ## Clonar el repositorio
 
