@@ -1,4 +1,3 @@
-
 # Define the QA team and the development team
 qa_team = ['Jordan Lee', 'Alex Patel']
 dev_team = ['Taylor Nguyen', 'Casey Johnson']
